@@ -2,7 +2,7 @@ package Bundle::Math::Statistics;
 use strict;
 use warnings;
 
-$VERSION = '1.00';
+$VERSION = '1.01';
 
 1;
 
@@ -40,7 +40,7 @@ Statistics::GammaDistribution
 
 Statistics::GaussHelmert
 
-Staststics::KruskalWallis
+Statistics::KruskalWallis
 
 Statistics::LSNoHistory
 
